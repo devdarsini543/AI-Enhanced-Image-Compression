@@ -15,15 +15,6 @@ Python-based hybrid image compression system combining **Wavelet Transform (DWT)
 
 ---
 
-## 📸 Demo / Example
-
-- 🎥 [Watch demo video](https://your-demo-link.com)
-- Or check the `/examples` folder for:
-  - `original.png`
-  - `compressed_output.png`
-
----
-
 ## 💻 Usage
 
 ### 🧠 Python Compression Scripts
